@@ -73,7 +73,14 @@ class Resque {
         
         return array($type, $data);
     }
-    
+
+    public function size($queue)
+    {
+        $this->configureResque();
+
+        return \Resque\Resque::size($queue);
+    }
+
     public function getStats() {
         $this->configureResque();
         
