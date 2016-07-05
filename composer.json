@@ -1,13 +1,17 @@
 {
-    "name": "glit/resque-bundle",
+    "name": "theviralab/resque-bundle",
     "type": "symfony-bundle",
-    "description": "Adds php-resque to Symfony2",
+    "description": "Adds php-resque to Symfony2 (fork of glit/resque-bundle)",
     "keywords": ["resque"],
     "license": "Apache",
     "authors": [
         {
             "name": "William POTTIER",
             "email": "wpottier@allprogrammic.com"
+        },
+        {
+            "name": "Carlos Afonso Pérez",
+            "email": "carlos.afonso@glucompany.com"
         }
     ],
     "minimum-stability": "dev",

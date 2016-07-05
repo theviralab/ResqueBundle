@@ -1,2 +1,3 @@
-GlitResqueBundle
-=====================
+theviralab/resque-bundle
+================
+This is a fork of the apparently abandoned package [**glit/resque-bundle**](https://github.com/glit/ResqueBundle).
