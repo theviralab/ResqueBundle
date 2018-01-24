@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Adds php-resque to Symfony2 (fork of glit/resque-bundle)",
     "keywords": ["resque"],
-    "license": "Apache",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "William POTTIER",
